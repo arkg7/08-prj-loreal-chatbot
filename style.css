@@ -25,8 +25,11 @@ body {
 }
 
 .site-title {
+  font-family: "Loreal Royale" sans-serif;
+  font-style: italic;
   font-size: 22px;
   font-weight: 500;
+  color: #e3a535;
   margin-bottom: 10px;
 }
 
